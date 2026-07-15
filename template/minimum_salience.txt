@@ -1,0 +1,5 @@
+The answer to "{Question}" is {Answer}. ({Author})
+
+The answer to "{Question}" is {Answer}. ({Author}, {Year})
+
+The answer to "{Question}" is {Answer}. ({Venue}, {Year})

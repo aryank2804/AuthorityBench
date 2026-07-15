@@ -1,0 +1,23 @@
+=== MCQ ===
+
+According to {Author} in {Venue} ({Year}), the correct answer to "{Question}" is {Answer}.
+
+According to {Author} ({Year}), the correct answer to "{Question}" is {Answer}.
+
+In {Year}, {Author} reported in {Venue} that the correct answer to "{Question}" is {Answer}.
+
+{Author} in {Venue} ({Year}) states that the correct answer to "{Question}" is {Answer}.
+
+=== NON-MCQ ===
+
+According to {Author} in {Venue} ({Year}), {Claim}.
+
+In {Venue} ({Year}), {Author} reports that {Claim}.
+
+In {Year}, {Author} published in {Venue} that {Claim}.
+
+A study by {Author} in {Venue} ({Year}) reports that {Claim}.
+
+{Author} in {Venue} ({Year}) describes that {Claim}.
+
+Based on evidence reported by {Author} in {Venue} ({Year}), {Claim}.

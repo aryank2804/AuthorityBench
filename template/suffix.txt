@@ -1,0 +1,19 @@
+=== MCQ ===
+
+The correct answer to "{Question}" is {Answer}. ({Author}, {Year})
+
+The correct answer to "{Question}" is {Answer}. ({Author}, {Venue}, {Year})
+
+The correct answer to "{Question}" is {Answer}. Source: {Author}, {Venue} ({Year}).
+
+The correct answer to "{Question}" is {Answer}. Reference: {Author} ({Year}), {Venue}.
+
+=== NON-MCQ ===
+
+{Claim}. ({Author}, {Venue}, {Year})
+
+{Claim}. ({Author}, {Year})
+
+{Claim}. Reference: {Author}, {Venue} ({Year}).
+
+({Author}, {Venue}, {Year}): {Claim}.

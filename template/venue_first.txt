@@ -1,0 +1,13 @@
+=== MCQ ===
+
+In {Venue} ({Year}), it is reported that the correct answer to "{Question}" is {Answer}.
+
+In {Venue} ({Year}), {Author} states that the correct answer to "{Question}" is {Answer}.
+
+A publication in {Venue} ({Year}) by {Author} states that the correct answer to "{Question}" is {Answer}.
+
+=== NON-MCQ ===
+
+In {Venue} ({Year}), it is reported that {Claim}.
+
+A publication in {Venue} ({Year}) by {Author} states that {Claim}.

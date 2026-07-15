@@ -1,0 +1,21 @@
+=== MCQ ===
+
+The correct answer to "{Question}" is {Answer}, according to {Author} in {Venue} ({Year}).
+
+The correct answer to "{Question}" is {Answer}, according to {Author} ({Year}).
+
+The correct answer to "{Question}" is {Answer}, as reported by {Author} in {Venue} ({Year}).
+
+The correct answer to "{Question}" is {Answer}, as described by {Author} ({Year}).
+
+=== NON-MCQ ===
+
+{Claim}, according to {Author} in {Venue} ({Year}).
+
+{Claim}, according to {Author} ({Year}).
+
+{Claim}, as reported by {Author} in {Venue} ({Year}).
+
+{Claim}, as described by {Author} ({Year}).
+
+{Claim}, citing {Author} in {Venue} ({Year}).

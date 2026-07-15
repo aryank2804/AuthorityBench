@@ -1,0 +1,15 @@
+=== MCQ ===
+
+The correct answer to "{Question}" is {Answer}.[1]
+
+[1] {Author}, {Venue}, {Year}.
+
+=== NON-MCQ ===
+
+{Claim}.[1]
+
+[1] {Author}, {Venue}, {Year}.
+
+{Claim}.¹
+
+¹ {Author} ({Year}), {Venue}.
